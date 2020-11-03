@@ -1,0 +1,10 @@
+# Intellij Idea
+.idea
+*.ipr
+*.iml
+
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+
